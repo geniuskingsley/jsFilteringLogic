@@ -2,7 +2,7 @@
 Shopping cart logic, when you want to filter some items
 
 
--- Running in terminal prompt...
+-- RUNNING THIS FILE IN A TERMINAL --
 1. Install prompt sync
  - npm install prompt-sync
  
